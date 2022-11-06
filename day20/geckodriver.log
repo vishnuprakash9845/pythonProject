@@ -1,0 +1,142 @@
+1665413545786	geckodriver	INFO	Listening on 127.0.0.1:54891
+1665413545832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54892" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileaXriHH"
+2022-10-10 20:22:27.408 plugin-container[31084:1293762] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:22:27.409 plugin-container[31084:1293762] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665413547446	Marionette	INFO	Marionette enabled
+2022-10-10 20:22:27.497 plugin-container[31084:1293762] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:22:27.497 plugin-container[31084:1293762] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 20:22:27.498 plugin-container[31084:1293767] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:22:27.498 plugin-container[31084:1293767] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665413547522	Marionette	INFO	Listening on port 54899
+Read port: 54899
+WebDriver BiDi listening on ws://127.0.0.1:54892
+1665413547974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileaXriHH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54892/devtools/browser/78e67d51-f1be-4fd3-869c-5b03d2f6ebd1
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 630: TypeError: crossMarquee2 is null
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 669: TypeError: crossMarquee3 is null
+JavaScript error: https://niccicms.raj.nic.in/nicci/js/voint_v1.js, line 1: ReferenceError: recognition is not defined
+2022-10-10 14:52:35.807 plugin-container[31090:1294131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:52:35.808 plugin-container[31090:1294131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 14:52:35.818 plugin-container[31090:1294131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:52:35.818 plugin-container[31090:1294131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 14:52:35.819 plugin-container[31090:1294147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:52:35.819 plugin-container[31090:1294147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665413601821	geckodriver	INFO	Listening on 127.0.0.1:55157
+1665413602199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55158" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileiOtdDQ"
+1665413603059	Marionette	INFO	Marionette enabled
+1665413603183	Marionette	INFO	Listening on port 55165
+2022-10-10 20:23:23.190 plugin-container[31117:1294767] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:23:23.191 plugin-container[31117:1294767] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 20:23:23.221 plugin-container[31117:1294767] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:23:23.221 plugin-container[31117:1294767] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 20:23:23.221 plugin-container[31117:1294765] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 20:23:23.221 plugin-container[31117:1294765] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55165
+WebDriver BiDi listening on ws://127.0.0.1:55158
+1665413603873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileiOtdDQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55158/devtools/browser/bfef43f1-c6ad-4542-9dc4-cfb99c8b7d65
+1665413607343	Marionette	INFO	Stopped listening on port 54899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 630: TypeError: crossMarquee2 is null
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 669: TypeError: crossMarquee3 is null
+JavaScript error: https://niccicms.raj.nic.in/nicci/js/voint_v1.js, line 1: ReferenceError: recognition is not defined
+2022-10-10 14:53:31.571 plugin-container[31124:1295114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:53:31.572 plugin-container[31124:1295114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 14:53:31.580 plugin-container[31124:1295114] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:53:31.580 plugin-container[31124:1295114] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-10 14:53:31.580 plugin-container[31124:1295126] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-10 14:53:31.581 plugin-container[31124:1295126] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665413622428	Marionette	INFO	Stopped listening on port 55165
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665496968297	geckodriver	INFO	Listening on 127.0.0.1:55968
+1665496968644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55969" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileMJXw6Z"
+2022-10-11 19:32:49.899 plugin-container[31907:1324688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:32:49.899 plugin-container[31907:1324688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665496970482	Marionette	INFO	Marionette enabled
+1665496970639	Marionette	INFO	Listening on port 55985
+Read port: 55985
+2022-10-11 19:32:50.737 plugin-container[31907:1324688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:32:50.737 plugin-container[31907:1324688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 19:32:50.737 plugin-container[31907:1324685] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:32:50.738 plugin-container[31907:1324685] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55969
+Read port: 55985
+1665496972028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileMJXw6Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55969/devtools/browser/f19b1ec0-9f4a-4686-ab5c-9e3ab13026cf
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 630: TypeError: crossMarquee2 is null
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 669: TypeError: crossMarquee3 is null
+JavaScript error: https://niccicms.raj.nic.in/nicci/js/voint_v1.js, line 1: ReferenceError: recognition is not defined
+2022-10-11 14:02:58.627 plugin-container[31914:1325083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:02:58.627 plugin-container[31914:1325083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:02:58.633 plugin-container[31914:1325083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:02:58.633 plugin-container[31914:1325083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:02:58.633 plugin-container[31914:1325098] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:02:58.633 plugin-container[31914:1325098] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665496988841	Marionette	INFO	Stopped listening on port 55985
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665497033638	geckodriver	INFO	Listening on 127.0.0.1:56257
+1665497034022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56258" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileRThvBP"
+2022-10-11 19:33:55.205 plugin-container[31949:1325885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:33:55.206 plugin-container[31949:1325885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665497035256	Marionette	INFO	Marionette enabled
+2022-10-11 19:33:55.262 plugin-container[31949:1325885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:33:55.263 plugin-container[31949:1325885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 19:33:55.264 plugin-container[31949:1325914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:33:55.265 plugin-container[31949:1325914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665497035389	Marionette	INFO	Listening on port 56265
+Read port: 56265
+WebDriver BiDi listening on ws://127.0.0.1:56258
+1665497036133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileRThvBP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56258/devtools/browser/7ccb723a-a2b9-4ffe-bf28-1aec5ffd9db2
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 630: TypeError: crossMarquee2 is null
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 669: TypeError: crossMarquee3 is null
+JavaScript error: https://niccicms.raj.nic.in/nicci/js/voint_v1.js, line 1: ReferenceError: recognition is not defined
+2022-10-11 14:04:02.062 plugin-container[31956:1326192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:02.062 plugin-container[31956:1326192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:04:02.071 plugin-container[31956:1326192] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:02.071 plugin-container[31956:1326192] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:04:02.072 plugin-container[31956:1326193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:02.072 plugin-container[31956:1326193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665497052356	Marionette	INFO	Stopped listening on port 56265
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665497062858	geckodriver	INFO	Listening on 127.0.0.1:56489
+1665497063238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56490" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileBXM1es"
+1665497064264	Marionette	INFO	Marionette enabled
+2022-10-11 19:34:24.296 plugin-container[31981:1326589] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:34:24.297 plugin-container[31981:1326589] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 19:34:24.312 plugin-container[31981:1326589] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:34:24.312 plugin-container[31981:1326589] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 19:34:24.318 plugin-container[31981:1326621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 19:34:24.318 plugin-container[31981:1326621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665497064349	Marionette	INFO	Listening on port 56497
+Read port: 56497
+WebDriver BiDi listening on ws://127.0.0.1:56490
+1665497065430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/b0/mznc4rw919q_d2j28x221wgw0000gn/T/rust_mozprofileBXM1es/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56490/devtools/browser/df485255-d797-410b-bccc-401fd7bbe39f
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 630: TypeError: crossMarquee2 is null
+JavaScript error: https://eprocure.gov.in/eprocure/app, line 669: TypeError: crossMarquee3 is null
+JavaScript error: https://niccicms.raj.nic.in/nicci/js/voint_v1.js, line 1: ReferenceError: recognition is not defined
+2022-10-11 14:04:31.851 plugin-container[31987:1326949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:31.851 plugin-container[31987:1326949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:04:31.857 plugin-container[31987:1326949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:31.857 plugin-container[31987:1326949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:04:31.858 plugin-container[31987:1326965] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:04:31.858 plugin-container[31987:1326965] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1665497081950	Marionette	INFO	Stopped listening on port 56497
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
